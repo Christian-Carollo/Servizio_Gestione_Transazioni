@@ -28,7 +28,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 @RunWith(SpringRunner.class)
 class TransazionePosApplicationTests {
 
-
 	@Autowired
 	private TransactionService transactionService;
 
