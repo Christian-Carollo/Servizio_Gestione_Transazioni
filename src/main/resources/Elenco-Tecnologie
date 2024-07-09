@@ -1,0 +1,42 @@
+
+    - Java: il linguaggio di programmazione utilizzato per scrivere il codice.
+
+    - Spring Boot: il framework utilizzato per creare l'applicazione. Spring Boot semplifica lo sviluppo di applicazioni
+      Java stand-alone e fornisce molte funzionalità out-of-the-box, come la configurazione automatica,
+      il server integrato e la gestione delle dipendenze.
+
+    - Spring Data JPA: il modulo Spring utilizzato per accedere ai dati. Spring Data JPA semplifica l'accesso ai dati
+      utilizzando l'API Java Persistence API (JPA) e fornisce un'astrazione per accedere a diversi database relazionali.
+
+    - Hibernate: l'implementazione JPA utilizzata da Spring Data JPA per accedere al database. Hibernate è un framework
+      di mappatura oggetto-relazionale (ORM) che mappa le classi Java alle tabelle del database.
+
+    - ModelMapper: la libreria utilizzata per mappare gli oggetti DTO agli oggetti del dominio e viceversa.
+      ModelMapper semplifica la conversione tra diversi tipi di oggetti e riduce la quantità di codice boilerplate
+      necessario per eseguire questa operazione.
+
+    - JUnit e Mockito: i framework utilizzati per scrivere i test. JUnit è un framework di testing per Java,
+      mentre Mockito è una libreria utilizzata per creare oggetti mock nei test.
+
+    - Lombok: la libreria utilizzata per generare automaticamente il codice boilerplate, come costruttori, getter e setter.
+      Lombok semplifica la scrittura del codice Java riducendo la quantità di codice boilerplate necessario.
+
+    - Swagger: lo strumento utilizzato per generare la documentazione dell'API. Swagger semplifica la creazione,
+      la documentazione e il test delle API RESTful.
+
+    - Spring Security: il framework utilizzato per gestire la sicurezza dell'applicazione.
+      Spring Security fornisce un'ampia gamma di funzionalità di sicurezza, come l'autenticazione, l'autorizzazione,
+      la protezione contro gli attacchi CSRF e XSS e altro ancora.
+
+    - CORS (Cross-Origin Resource Sharing): la specifica utilizzata per consentire l'accesso alle risorse da parte
+      di domini diversi da quello in cui è ospitata l'applicazione. CORS è utilizzato per prevenire gli attacchi
+      cross-site scripting (XSS) e altre vulnerabilità di sicurezza.
+
+    - Logback: la libreria utilizzata per registrare i log dell'applicazione. Logback è un framework di logging per
+      Java che fornisce una vasta gamma di opzioni di configurazione per la registrazione dei log.
+
+    - Maven: lo strumento di build utilizzato per gestire le dipendenze e compilare il progetto. Maven semplifica la
+      gestione delle dipendenze e la creazione di applicazioni Java.
+
+    - ChatGpt: Intelligenza artificiale utilizzata con promt ben specifici e ben strutturati per la correzzione e la spiegazione
+      di nuove tecnologie
